@@ -5,6 +5,6 @@ Importante tener una micro SD, pues se deberá instalar desde aquí.
 ## Instalación desde Linux
 Primero de todo necesitaremos disponer de Flash para empezar con la instalación.
 Ejecuta estos comandos:
-  `sudo apt-get install -y pv curl python-pip unzip`
-  `sudo pip install awscli`
-  `uname -s`
+ -`sudo apt-get install -y pv curl python-pip unzip`
+ -`sudo pip install awscli`
+ -`uname -s`
