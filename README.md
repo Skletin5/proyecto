@@ -5,7 +5,7 @@ en la Raspberry.
 
 ## Índice
 1. [Introducción](introducción.md)
-2. ¿Qué es una raspberry?
+2. [¿Qué es una raspberry?](raspberry.md)
 3. Instalación del SO
 4. Utilización de la raspberry
 
